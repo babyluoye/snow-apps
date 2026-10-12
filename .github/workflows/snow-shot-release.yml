@@ -3,7 +3,7 @@ name: Snow Shot Static Release
 on:
   push:
     tags:
-      - "v*_snow-shot"
+      - "v*_local"
 
 permissions:
   contents: write
